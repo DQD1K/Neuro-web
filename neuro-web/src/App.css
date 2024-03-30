@@ -1,0 +1,63 @@
+.nav{
+    display: inline-block;
+    text-align: center;
+    background: gray;
+    vertical-align: top;
+    width: 10em;
+}
+
+.file-import{
+    background: lightblue;
+    padding: 1em;
+    width: 18em;
+}
+
+.learning-speed{
+    background: lightcoral;
+    padding: 1em;
+    width: 18em;
+}
+
+.start-stop{
+    background: lightgreen;
+    padding: 1em;
+    width: 18em;
+    display: flex;
+}
+
+.neurons{
+    display: flex;
+    flex-direction: row;
+    padding-left: 1em;
+    position: absolute;
+    top: 5em;
+    left: 20.5em;
+    width: 40em;
+    background: lightsalmon;
+}
+
+
+
+.display{
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    position: absolute;
+    top: 3em;
+    left:0em;
+    height: 13.8em;
+    width: 30em;
+    background: lightpink;
+    padding: 5em;
+}
+
+.console{
+    position: absolute;
+    top:5em;
+    left: 60.5em;
+    background: lightslategray;
+    width: 5em;
+    height: 16.8em;
+    padding: 5em;
+
+}
